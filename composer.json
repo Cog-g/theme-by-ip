@@ -1,0 +1,19 @@
+{
+  "name": "cog-g/themebyip",
+  "description": "Wordpress plugin supposed to serve a theme depending on client IP address.",
+  "keywords": ["wordpress", "plugin", "theme"],
+  "homepage": "http://const.fr/wordpress-plugin-theme-ip",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Constantin Guay",
+      "email": "const.g@gmail.com",
+      "homepage": "http://const.fr"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "v1.0.6"
+  }
+}
